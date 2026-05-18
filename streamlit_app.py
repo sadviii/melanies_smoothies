@@ -8,7 +8,7 @@ st.write(
   """
 )
 
-
+#smoothie app
 Name_on_order = st.text_input('Name on Smoothie:')
 st.write('The name on your smoothie will be:',Name_on_order)
 
